@@ -30,13 +30,7 @@ Cloud computing with AWS (serverless architecture, deployment, and management)
 
 Collaboration | Innovation | Good vibes only
 
-**Let's Link 📲**
-
-[Portfolio]((https://amnakhan15.github.io/))
-[LinkedIn]((https://www.linkedin.com/in/amna-khan-373b861b0/))
-[GitHub](((https://github.com/AmnaKhan15)))
-
-Stay Lit 🔥
+**Stay Lit 🔥**
 
 Let's build something fire together! 💥
 
