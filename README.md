@@ -20,11 +20,15 @@ AWS (Lambda, API Gateway, S3, DynamoDB,Cloudfront,EventBridge)
 
 **Expertise 🤓**
 
-Frontend development with React and Next.js
-Backend development with Node.js and Python
-Responsive design and UI/UX
-API integrations and database management
-Cloud computing with AWS (serverless architecture, deployment, and management)
+-Frontend development with React and Next.js
+
+-Backend development with Node.js and Python
+
+-Responsive design and UI/UX
+
+-API integrations and database management
+
+-Cloud computing with AWS (serverless architecture, deployment, and management)
 
 **Vibes 🌈**
 
