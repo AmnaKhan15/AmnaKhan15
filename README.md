@@ -36,7 +36,7 @@ Collaboration | Innovation | Good vibes only
 
 **Stay Lit 🔥**
 
-Let's build something fire together! 💥 <3
+Let's build something fire together! 💥 
 
 
 <!---
