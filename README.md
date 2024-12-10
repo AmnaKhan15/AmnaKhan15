@@ -37,7 +37,7 @@ Collaboration | Innovation | Good vibes only
 **Stay Lit 🔥**
 
 Let's build something fire together! 💥 
-hehehe
+
 
 <!---
 AmnaKhan15/AmnaKhan15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
