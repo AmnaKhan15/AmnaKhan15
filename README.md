@@ -1,43 +1,46 @@
-Hey, I'm Amna! 👋
+# Hey, I'm Amna Khan! 👋
 
-**About Me 🤖**
+### Software Engineer | AI Engineer | Backend & Cloud
 
-Full-stack dev | Code enthusiast | Always learning
+I’m a Software Engineer with nearly **3 years of experience** building and deploying software applications, AI-powered products, and scalable backend systems.
 
+I enjoy turning complex problems into practical solutions — understanding business workflows, identifying opportunities for AI, and building systems that make processes smarter and more efficient.
 
-**Tech Stack 🚀**
+From designing backend architectures and integrating LLMs to deploying applications on AWS and troubleshooting production systems, I enjoy taking ownership of the entire development lifecycle.
 
-JavaScript,
-TypeScript,
-Python,
-React,
-Next.js,
-Node.js,
-Tailwind,
-Bootstrap,
-AWS (Lambda, API Gateway, S3, DynamoDB,Cloudfront,EventBridge)
+### 🚀 Tech Stack
 
+**Languages:** Python, JavaScript, TypeScript
 
-**Expertise 🤓**
+**Backend:** Django, Django REST Framework, FastAPI, Node.js, Express.js
 
--Frontend development with React and Next.js
+**Frontend:** React, Next.js, Tailwind CSS
 
--Backend development with Node.js and Python
+**AI & Agentic Systems:** LLM Integration, RAG, LangGraph, AI Agents, Tool Calling, Vector Databases, OpenAI, Gemini
 
--Responsive design and UI/UX
+**Cloud & DevOps:** AWS (Lambda, API Gateway, EC2, ECS, S3, DynamoDB, CloudFront, EventBridge, Cognito), Docker, CI/CD
 
--API integrations and database management
+**Databases:** PostgreSQL, pgvector, DynamoDB, Firebase
 
--Cloud computing with AWS (serverless architecture, deployment, and management)
+### 🤖 What I Work On
 
-**Vibes 🌈**
+- **Backend Engineering:** Designing scalable REST APIs, database architectures, and distributed backend services.
+- **AI Engineering:** Building AI-powered applications, integrating LLMs, developing agentic workflows, and implementing RAG-based systems.
+- **Cloud Infrastructure:** Deploying and managing applications on AWS, working with serverless architectures, containers, and cloud services.
+- **Workflow Automation:** Identifying repetitive business processes and building intelligent automation solutions.
+- **End-to-End Development:** Taking products from requirements and architecture to implementation, deployment, and production support.
 
-Collaboration | Innovation | Good vibes only
+### 💡 Beyond the Code
 
-**Stay Lit 🔥**
+- Always curious about emerging AI technologies and how they can solve real-world problems.
+- Enjoy working closely with teams and understanding the business behind the product.
+- Believe in ownership, continuous learning, and finding solutions rather than excuses.
 
-Let's build something fire together! 💥
+### 🤝 Let's Connect
 
+I'm always interested in collaborating on meaningful products, exploring new technologies, and building solutions that make a difference.
+
+**Always find a way or make one.** 🚀
 
 <!---
 AmnaKhan15/AmnaKhan15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
